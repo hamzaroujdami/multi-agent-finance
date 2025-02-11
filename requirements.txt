@@ -1,0 +1,6 @@
+autogen
+pandas
+yfinance
+matplotlib
+flask
+ollama
